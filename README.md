@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm hugh.li
 
-Developer from China. I enjoy building and maintaining open-source tools and libraries.
+I enjoy building and maintaining open-source tools and libraries.
 
 - 🧰 60+ packages on [Packagist](https://packagist.org/packages/hughcube/)
 - 📫 hugh.li@foxmail.com
